@@ -1,0 +1,24 @@
+-
+
+    name: PANOPTES Unit 001
+
+    pan_id: PAN000
+
+    field_file: /fields_file/simple.yaml
+
+-
+
+    name: PANOPTES Unit 002
+
+    pan_id: PAN001
+
+    field_file: /fields_file/simple.yaml
+
+-
+
+    name: PANOPTES Unit 003
+
+    pan_id: PAN002
+
+    field_file: /fields_file/tess_sectors_south.yaml
+
